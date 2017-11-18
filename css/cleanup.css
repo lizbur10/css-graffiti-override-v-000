@@ -21,3 +21,7 @@ div#wall .parent:nth-child(5) #tag-5.slick {
 div#wall div.parent div:last-child div#tag-6:only-child {
   display: none;
 }
+
+div#wall div.parent div:last-child div#tag-6:only-child {
+  display: none;
+}
