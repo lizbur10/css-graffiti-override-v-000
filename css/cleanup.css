@@ -13,3 +13,7 @@ div#wall #tag-2 ~ #tag-3.slick {
 #wall .parent #tag-4 {
   display: none;
 }
+
+div#wall .parent:nth-child(2) #tag-5.slick {
+  display: none;
+}
