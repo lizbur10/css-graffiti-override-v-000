@@ -18,6 +18,6 @@ div#wall .parent:nth-child(5) #tag-5.slick {
   display: none;
 }
 
-div#wall div.parent div:last-child div#tag-6 {
+div#wall div.parent div:last-child div#tag-6:only-child {
   display: none;
 }
